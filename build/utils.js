@@ -22,7 +22,7 @@
 // Wplace  --> https://wplace.live
 // License --> https://www.mozilla.org/en-US/MPL/2.0/
 
-(() => {
+let main = function() {
     var t, e, n = t => {
             throw TypeError(t)
         },
